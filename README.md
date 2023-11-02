@@ -1,6 +1,6 @@
 # Bienvenue chez Kercode !
 
-![Kercode](../Images_TD/kercode.jpg)  
+![Kercode](./kercode.jpg)  
 
 ### Introduction
 
@@ -17,7 +17,7 @@ points dans la prolongation de ce qui a été vu en cours.
 
 ### La rédaction au format markdown  
 
-<img style="float: right;" src="Images/../../Images_TD/markdown.png">  
+<img style="float: right;" src="./markdown.png">  
 
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce
 texte avec :
