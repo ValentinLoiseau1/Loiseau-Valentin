@@ -47,4 +47,5 @@ Tout sera expliqué... Pas de panique !
 
 Là aussi, vous serez guidé... Pas de panique !
 
+♥øÌ┼jMxÌ#ô⌂¥§#½ýa│g┼ñ¿ºèèòØ¼☻¼¼¼╬£♥øÚ╣ô@☻♠♣♦§D♀♀$/R£é↔‼Å☺8♥├↕♦♣♠♠•◘○?☻1☺♣♦♂▬!4♦7BMXcoÌM╝+Üx○þ┼jY╩◄Íq·║┘\☺TN♪J♂♀┼ON•◄►►◄Y6ÆÚÇÍP~~é~é█╝§¾Ç‗BÄ┴│⌂♠┘┌♣jD┘┼█┼ 4/E↑←→↔↨§%&''↔?@?5♫.♫♫♫•←§∟
 Test
